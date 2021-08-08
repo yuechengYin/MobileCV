@@ -10,7 +10,9 @@ $ ./build.sh armeabi-v7a                        # for android armeabi-v7a
 ```
 
 ### Support Most Commonly Used Image Processing Operations
-
+- resize
+- RGB_YUV420
+- gaussianBlur
 
 
 ### Acknowledgements
