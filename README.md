@@ -9,8 +9,9 @@ $ ./build.sh arm64-v8a                          # for andoroid arm64-v8a
 $ ./build.sh armeabi-v7a                        # for android armeabi-v7a
 ```
 
-### Contributions
-This project uses [Contributor Covenant](https://www.contributor-covenant.org/) as code of conduct. Any contributions would be highly appreciated.
+### Support Most Commonly Used Image Processing Operations
+
+
 
 ### Acknowledgements
 * [OpenCV](https://github.com/opencv/opencv)
