@@ -1,5 +1,5 @@
 # MobileCV
-*MobileCV* is a hign-performance image processing library for mobile devices.
+*MobileCV* is a high-performance image processing library for mobile devices.
 
 ### How To Build
 This project is configured by cmake script. A simple build script is provided.
